@@ -1,1 +1,1 @@
-Network basics project
+Network project
