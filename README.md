@@ -1,1 +1,1 @@
-Network basics project
+Network basics and OSI model project
